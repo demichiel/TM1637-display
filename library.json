@@ -1,0 +1,12 @@
+{
+  "name": "TM1637RobotDyn",
+  "keywords": "digitdisplay, 4digit, display, segment",
+  "description": "modified TM1637 display",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/demichiel/TM1637-display.git"
+  },
+  "version": "0.1",
+  "frameworks": "arduino"
+}
